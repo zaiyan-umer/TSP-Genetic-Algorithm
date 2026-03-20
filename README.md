@@ -19,8 +19,8 @@ Most people jump straight to AI agents and LLMs, but search and optimization are
 The algorithm converges to a near-optimal route through all 20 cities.
 
 ## Final Route
-
+<img width="730" height="568" alt="image" src="https://github.com/user-attachments/assets/bd5b89fa-027c-472b-b9d4-6aabc669540f" />
 
 ## Reference Post
 
-LinkedIn post: https://lnkd.in/d6HDGMBu
+LinkedIn post: [Check out here](https://www.linkedin.com/posts/zaiyan-umer-935525324_everyone-talks-about-learning-ai-agents-and-activity-7439060222058479616-AT8B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFHyhPkBgTF4U4kzGHh-uFH1VlblBGkgjBI)
